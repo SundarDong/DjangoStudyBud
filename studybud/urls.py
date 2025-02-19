@@ -1,15 +1,9 @@
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include #with the help of include we can use the urls for navigation in baseline urls in root directory.
 from django.http import HttpResponse
 
-def home(request):
-    return HttpResponse('Home page')
-
-def room(request):
-    return HttpResponse('ROOM')
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('',home),
-    path('room/',room),
+    path('',include('base.urls'))
 ]
