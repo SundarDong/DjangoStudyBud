@@ -3,5 +3,5 @@ from . import views #we use . because the view py file is in the main base app.
 
 urlpatterns = [
     path('',views.home, name='home'),
-    path('room/',views.room, name='room'),
+    path('room/<str:pk>/',views.room, name='room'),
 ]
