@@ -4,4 +4,4 @@
 
 2. Then after we set the dynamic routing to fetch the list of the rooms according to their ID by specingin them in their base app Urls.py.
 
-3.Now
+3.Now, we implement the ROOM Name with their list ID. And we can see the Room ID in the urls section of the Brower.
