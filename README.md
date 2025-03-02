@@ -7,3 +7,5 @@
 3.Now, we implement the ROOM Name with their list ID. And we can see the Room ID in the urls section of the Brower.
 
 4.Then after we will talk about the Database and Admin Panel after we finished the talk about Views, URls and templates.
+
+5.Now, we will works on the Database and Model Design for the Base app templated instead of manual data flows.
