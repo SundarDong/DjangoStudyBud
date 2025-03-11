@@ -11,3 +11,5 @@
 5.Now, we will works on the Database and Model Design for the Base app templated instead of manual data flows.
 
 6. Now we can see the data modal in the Admin prebuild panel in the python and we can see the modal in the Data base table.
+
+7. (Here There is a small Gap due to my personal Reasons.)
