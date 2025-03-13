@@ -13,3 +13,5 @@
 6. Now we can see the data modal in the Admin prebuild panel in the python and we can see the modal in the Data base table.
 
 7. (Here There is a small Gap due to my personal Reasons.)
+
+8. After some rest then we will create the New Modal Topic and Message which is linked to the parent modal Room. Model Topic and Message get the Foreign key of Room Model.
