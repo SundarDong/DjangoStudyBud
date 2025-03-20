@@ -16,4 +16,4 @@
 
 8.After some rest then we will create the New Modal Topic and Message which is linked to the parent modal Room. Model Topic and Message get the Foreign key of Room Model.
 
-9.Then after we will make the CRUD opertaions.
+9.Then after we will make the CRUD opertaions. Before CRUD operations we will update the home template by rendering the Dynamic topic and message rending from backend.
