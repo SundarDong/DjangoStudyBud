@@ -21,6 +21,7 @@ class Room(models.Model):
 
     class Meta:
         ordering= ['-updated','-created']
+        #When we add minus(-) in the above then it will shows the data from recent data to old data
 
     def __str__(self):
         return self.name
