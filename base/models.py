@@ -19,6 +19,10 @@ class Room(models.Model):
     updated = models.DateTimeField(auto_now=True)
     created = models.DateTimeField(auto_now_add=True)
 
+    class Meta:
+        ordering= ['-updated','-created']
+        #When we add minus(-) in the above then it will shows the data from recent data to old data
+
     def __str__(self):
         return self.name
 
