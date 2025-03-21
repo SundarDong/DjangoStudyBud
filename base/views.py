@@ -2,12 +2,8 @@ from django.shortcuts import render, redirect
 from .models import Room
 from .forms import RoomForm
 # Create your views here.
+ 
 
-rooms =[
-    {'id':1, 'name':'Lets learn python!'},
-    {'id':2, 'name':'Design with me'},
-    {'id':3, 'name':'Frontend Developers'},
-]
 def home(request):
     rooms = Room.objects.all()
     context={'rooms':rooms}
