@@ -19,3 +19,5 @@
 9.Then after we will make the CRUD opertaions. Before CRUD operations we will update the home template by rendering the Dynamic topic and message rending from backend.
 
 10.Now we will create the New Forms using the ModalForm using the Django package. And after we will display the form as similar in the backend django admistration and insert the data into backend using that form.
+
+11.Now we will implement the Delete of the CRUD operations in the Django.
