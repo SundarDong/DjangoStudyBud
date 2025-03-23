@@ -21,3 +21,5 @@
 10.Now we will create the New Forms using the ModalForm using the Django package. And after we will display the form as similar in the backend django admistration and insert the data into backend using that form.
 
 11.Now we will implement the Delete of the CRUD operations in the Django.
+
+12.Then we will implement the Serach functionality in the Website Desing to find the Room of the Courses.
