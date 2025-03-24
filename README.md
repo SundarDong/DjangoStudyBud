@@ -23,3 +23,5 @@
 11.Now we will implement the Delete of the CRUD operations in the Django.
 
 12.Then we will implement the Serach functionality in the Website Desing to find the Room of the Courses.
+
+13.In Search Field we can search the rooms according to their topic name, descritions and name of the rooms. Then we can see the no of avaiable rooms in the Home page.
