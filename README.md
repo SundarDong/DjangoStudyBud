@@ -26,4 +26,4 @@
 
 13.In Search Field we can search the rooms according to their topic name, descritions and name of the rooms. Then we can see the no of avaiable rooms in the Home page.
 
-14.Then we will implement the login authentication after making the Login form creation in the template of base applcation.
+14.Then we will implement the login authentication after making the Login form creation in the template of base applcation we will implent all the login details in the feat/Login branch.
